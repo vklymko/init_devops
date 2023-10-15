@@ -1,1 +1,1 @@
-Write-Host "Hello, World! Let's have fun, while we are still all alive!!!"
+Write-Host "Hello, World! Let's have some fun while we are young and alive! Let's listen to a lot of nice music!!!!!!"
